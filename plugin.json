@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themegrimoire",
+  "name": "Thème Grimoire",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Les boîtes de dialogue d’un jeu de rôle : double cadre doré sur parchemin sombre. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "grimoire",
+      "name": "Grimoire",
+      "style": "grimoire",
+      "hue": 28,
+      "sat": 35,
+      "accent": "#e0a940",
+      "light": "#f5dca0",
+      "third": "#d0603f",
+      "lift": 1.8,
+      "about": "Les boîtes de dialogue d’un jeu de rôle : double cadre doré sur parchemin sombre."
+    }
+  ]
+}
