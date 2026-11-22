@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.themegrimoire",
+  "repo": "NDesumeur/neodex-plugin-theme-grimoire",
+  "version": "1.0.0",
+  "sha256": "35c4705a13d54138b01231d9a2647334cd1e303818b2a65e5fd69fded9c574e3",
+  "approvedAt": "2026-11-22T19:05:25.568Z",
+  "neobase": ">=4.1.0",
+  "signature": "RZu1qUEz5C6EZ8C/8KDJCwbkeiXkeIgeIxhDBCfUzzH61d3aNnxBt9YbLoRF3LJoCWNzXpzI9rdIwVVw7t5YCg=="
+}
